@@ -1,0 +1,19 @@
+{
+  "name": "monkeychat",
+  "version": "1.0.0",
+  "description": "Chat program for all you monkeys out there.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonkeyBoneCodingAgency/Monkey-Chat.git"
+  },
+  "author": "Brandon and Taylor Godfrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MonkeyBoneCodingAgency/Monkey-Chat/issues"
+  },
+  "homepage": "https://github.com/MonkeyBoneCodingAgency/Monkey-Chat#readme"
+}
